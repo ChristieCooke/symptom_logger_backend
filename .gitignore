@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignore environment variables
+.env
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if created)
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files or temp files (optional)
+*.log
